@@ -1,0 +1,2 @@
+Have you ever noticed that when you crouch mid-jump that you are not pulling your legs up, you are pushing your body down.
+That's not normal and this mod fixes that. By doing so it also allows you to jump 1.5 blocks high if you crouch mid-jump
